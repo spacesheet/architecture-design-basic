@@ -1,3 +1,3 @@
-# architecture-basic
+# architecture-design-basic
 
-Architecture 그리기 실습
+Architecture Design 실습
